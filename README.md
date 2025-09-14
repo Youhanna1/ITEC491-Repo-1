@@ -1,3 +1,1 @@
-Hello people
-Thats a change !
-Feature line
+Hello from master branch
